@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'paraphraser',     # Add our app
     'corsheaders',  # Add this line
 ]
+
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',  # Add this line at the top
     'django.middleware.security.SecurityMiddleware',
