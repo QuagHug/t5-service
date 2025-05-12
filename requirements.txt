@@ -1,0 +1,9 @@
+django==4.2.0
+djangorestframework==3.14.0
+tokenizers==0.15.1
+transformers>=4.36.0
+torch>=2.2.0
+sentencepiece>=0.1.99
+gunicorn>=21.2.0
+whitenoise>=6.5.0
+django-cors-headers==4.3.1
